@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on SuperAi</title>
+    <link>https://timedilationv2.github.io/checkcheck/posts/</link>
+    <description>Recent content in Posts on SuperAi</description>
+    <generator>Hugo -- 0.147.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://timedilationv2.github.io/checkcheck/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to SuperAi</title>
+      <link>https://timedilationv2.github.io/checkcheck/posts/welcome/</link>
+      <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://timedilationv2.github.io/checkcheck/posts/welcome/</guid>
+      <description>&lt;p&gt;This is the beginning of something powerful.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
