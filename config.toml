@@ -1,22 +1,27 @@
-baseURL = "https://timedilationv2.github.io/checkcheck/"
+baseURL = "https://timedilationv2.github.io/superai/"
 languageCode = "en-us"
 title = "SuperAi"
 theme = "PaperMod"
-[pagination]
-  pagerSize = 10
 
 [params]
-  author = "Arsalan Khan"
-  description = "A blog about AI, systems, and thought."
   ShowReadingTime = true
   defaultTheme = "auto"
+  homeInfoParams = { Title = "Welcome to SuperAi", Content = "Command-line powered execution blog." }
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
 
 [menu]
   [[menu.main]]
-    name = "Posts"
-    url = "/posts/"
+    name = "Home"
+    url = "/"
     weight = 1
 
-[markup]
-  [markup.goldmark.renderer]
-    unsafe = true
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 2
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3

@@ -1,7 +1,6 @@
 ---
-title: "Welcome to SuperAi"
-date: 2025-07-03
+title: "Welcome"
+date: 2025-07-03T00:00:00Z
 draft: false
 ---
-
-This is the beginning of something powerful.
+This is your first Hugo blog post, live on GitHub Pages!
