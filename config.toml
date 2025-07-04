@@ -28,31 +28,3 @@ theme = "PaperMod"
     name = "About"
     url = "/about/"
     weight = 2
-
-baseURL = "https://timedilationv2.github.io/superai/"
-languageCode = "en-us"
-title = "SuperAi"
-theme = "PaperMod"
-
-[params]
-  ShowReadingTime = true
-  defaultTheme = "auto"
-  homeInfoParams = { Title = "Welcome to SuperAi", Content = "Command-line powered execution blog." }
-  ShowBreadCrumbs = true
-  ShowCodeCopyButtons = true
-
-[menu]
-  [[menu.main]]
-    name = "Home"
-    url = "/"
-    weight = 1
-
-  [[menu.main]]
-    name = "Posts"
-    url = "/posts/"
-    weight = 2
-
-  [[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 3
