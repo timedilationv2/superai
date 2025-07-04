@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>SuperAi</title>
-    <link>https://timedilationv2.github.io/checkcheck/</link>
+    <link>https://timedilationv2.github.io/superai/</link>
     <description>Recent content on SuperAi</description>
-    <generator>Hugo -- 0.147.3</generator>
+    <generator>Hugo -- 0.147.9</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 03 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://timedilationv2.github.io/checkcheck/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://timedilationv2.github.io/superai/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Welcome to SuperAi</title>
-      <link>https://timedilationv2.github.io/checkcheck/posts/welcome/</link>
+      <title>Welcome</title>
+      <link>https://timedilationv2.github.io/superai/posts/welcome/</link>
       <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://timedilationv2.github.io/checkcheck/posts/welcome/</guid>
-      <description>&lt;p&gt;This is the beginning of something powerful.&lt;/p&gt;</description>
+      <guid>https://timedilationv2.github.io/superai/posts/welcome/</guid>
+      <description>&lt;p&gt;This is your first Hugo blog post, live on GitHub Pages!&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
