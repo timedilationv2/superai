@@ -4,6 +4,37 @@ title = "SuperAi"
 theme = "PaperMod"
 
 [params]
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  profileMode = true
+
+  [params.profileModeParams]
+    title = "SuperAi"
+    subtitle = "Execution-first engineering, AI, and CLI systems"
+    imageUrl = "/img/avatar.png"
+    imageTitle = "Arsalan"
+    buttons = [
+      { name = "About", url = "/about/" },
+      { name = "Posts", url = "/posts/" }
+    ]
+
+[menu]
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 1
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+
+baseURL = "https://timedilationv2.github.io/superai/"
+languageCode = "en-us"
+title = "SuperAi"
+theme = "PaperMod"
+
+[params]
   ShowReadingTime = true
   defaultTheme = "auto"
   homeInfoParams = { Title = "Welcome to SuperAi", Content = "Command-line powered execution blog." }
